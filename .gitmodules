@@ -1,0 +1,3 @@
+[submodule "NSLogger"]
+	path = NSLogger
+	url = git://github.com/fpillet/NSLogger.git
